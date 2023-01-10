@@ -9,7 +9,7 @@ Struktur Folder:
 - client-user
 - client-admin
 
-## W1D1
+## Step - 1 
 
 Target:
 
@@ -28,7 +28,7 @@ Target:
 - Menentukan Design dan pemilihan CSS Framework
 
 
-## W1D2
+## Step - 2
 
 Target:
 
@@ -43,7 +43,7 @@ Target:
 
 ...
 
-## W1D3
+## Step - 3
 
 Target:
 
@@ -61,7 +61,7 @@ Target:
 
 ...
 
-## W1D4
+## Step - 4
 
 Target:
 
