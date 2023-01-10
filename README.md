@@ -27,12 +27,6 @@ Target:
 - Menentukan Thema Aplikasi
 - Menentukan Design dan pemilihan CSS Framework
 
-**Report:**
-
-...
-
-> contoh: Hari ini saya belajar React Component. Saya memahami bagaimana cara React bekerja. Lifecycle yang sudah saya coba adalah componentDidMount yang digunakan untuk fetch data dst. Namun saya belum mencoba menggunakan onSubmit dikarenakan data yang didapat belum sesuai.
-> Pada tugas ini, saya memilih Tema A dengan mengambil referensi dari B. Saya juga akan menggunakan CSS Framework yaitu Tailwind CSS
 
 ## W1D2
 
@@ -77,17 +71,5 @@ Target:
 - Lecture - SQL Transaction
 - Membuat transaction saat membuat entitas baru pada main table. Pastikan ada assosiasi di dalamnya
 
-**Report:**
 
-...
 
-## W1D5
-
-Target:
-
-- LC Simulation
-- Practice, Practice, Practice
-
-**Report:**
-
-...
