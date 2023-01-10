@@ -1,7 +1,7 @@
 # P3-Challenge-1
 
-- Tema Aplikasi: ...
-- CSS Framework: ...
+- Tema Aplikasi: E-Commerce
+- CSS Framework: Bootstrap
 
 Struktur Folder:
 
@@ -13,19 +13,19 @@ Struktur Folder:
 
 Target:
 
-- [ ] Lecture - React Intro
-- [ ] React: Class Component vs Function Component
-- [ ] Mempelajari State menggunakan useState
-- [ ] Mengirim Props baik berupa sebuah state atau function
-- [ ] Event Handling (onClick, onChange, onSubmit)
-- [ ] Conditional Rendering di dalam React
-- [ ] Looping List of Data di dalam React
-- [ ] Lifecycle component menggunakan useEffect
-- [ ] Membuat server (json-server)
-- [ ] Membuat react app untuk client-user (Styling)
-- [ ] Membuat react app untuk client-admin (CRUD)
-- [ ] Menentukan Thema Aplikasi
-- [ ] Menentukan Design dan pemilihan CSS Framework
+- Lecture - React Intro
+- React: Class Component vs Function Component
+- Mempelajari State menggunakan useState
+- Mengirim Props baik berupa sebuah state atau function
+- Event Handling (onClick, onChange, onSubmit)
+- Conditional Rendering di dalam React
+- Looping List of Data di dalam React
+- Lifecycle component menggunakan useEffect
+- Membuat server (json-server)
+- Membuat react app untuk client-user (Styling)
+- Membuat react app untuk client-admin (CRUD)
+- Menentukan Thema Aplikasi
+- Menentukan Design dan pemilihan CSS Framework
 
 **Report:**
 
@@ -38,12 +38,12 @@ Target:
 
 Target:
 
-- [ ] Lecture - Custom Hooks
-- [ ] Rules of Hooks
-- [ ] Lecture - React-Router
-- [ ] Membuat router user-side (min: home, detail)
-- [ ] Membuat router admin-side (min: login, add admin, CRUD main entitas, CRUD another entitas)
-- [ ] Membuat privateRoute untuk admin
+- Lecture - Custom Hooks
+- Rules of Hooks
+- Lecture - React-Router
+- Membuat router user-side (min: home, detail)
+- Membuat router admin-side (min: login, add admin, CRUD main entitas, CRUD another entitas)
+- Membuat privateRoute untuk admin
 
 **Report:**
 
@@ -53,15 +53,15 @@ Target:
 
 Target:
 
-- [ ] Lecture - Redux
-- [ ] State vs Global State
-- [ ] Bagaimana cara membuat Store
-- [ ] Bagaimana cara membuat Reducer
-- [ ] Bagaimana cara membuat Action
-- [ ] Membuat Action Creators
-- [ ] Membuat Action Types
-- [ ] Lecture - Redux-thunk (handle async)
-- [ ] Cara menggunakan combineReducers
+- Lecture - Redux
+- State vs Global State
+- Bagaimana cara membuat Store
+- Bagaimana cara membuat Reducer
+- Bagaimana cara membuat Action
+- Membuat Action Creators
+- Membuat Action Types
+- Lecture - Redux-thunk (handle async)
+- Cara menggunakan combineReducers
 
 **Report:**
 
@@ -71,11 +71,11 @@ Target:
 
 Target:
 
-- [ ] Lecture - SQL Advance DQL
-- [ ] Membuat server mengguanakan express.js, postgreSQL dan Sequelize
-- [ ] Menentukan associations antar tables
-- [ ] Lecture - SQL Transaction
-- [ ] Membuat transaction saat membuat entitas baru pada main table. Pastikan ada assosiasi di dalamnya
+- Lecture - SQL Advance DQL
+- Membuat server mengguanakan express.js, postgreSQL dan Sequelize
+- Menentukan associations antar tables
+- Lecture - SQL Transaction
+- Membuat transaction saat membuat entitas baru pada main table. Pastikan ada assosiasi di dalamnya
 
 **Report:**
 
@@ -85,8 +85,8 @@ Target:
 
 Target:
 
-- [ ] LC Simulation
-- [ ] Practice, Practice, Practice
+- LC Simulation
+- Practice, Practice, Practice
 
 **Report:**
 
