@@ -1,4 +1,4 @@
-# P3-Challenge-1
+# React - Project - Markus Sarsanto
 
 - Tema Aplikasi: E-Commerce
 - CSS Framework: Bootstrap
